@@ -6,9 +6,11 @@ const ExercisesList = ({ dataExercises }) => {
 	return (
 		<>
 			<main>
-				{dataExercises.map((exercise) => {
-					return <Exercise key={exercise.id} exercise={exercise} />;
-				})}
+				<div className="container">
+					{dataExercises.map((exercise) => {
+						return <Exercise key={exercise.id} exercise={exercise} />;
+					})}
+				</div>
 			</main>
 		</>
 	);

@@ -21,20 +21,8 @@ html {
 body {
 	font-size: 1.6rem;
 	line-height: 22px;
-}
-
-h1 {
-	font-size: 3rem;
-	text-align: center;
-	font-weight: bold;
-	margin-bottom: 10px;
-}
-
-button {
-	font-family: "Roboto", sans-serif;
-	font-size: 2rem;
-	border: 1px solid var(--light-grey);
-	border-radius: 5px;
+	padding: 10px;
+	background-color: var(--light-grey);
 }
 
 a {
