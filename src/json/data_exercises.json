@@ -1,44 +1,58 @@
 [
 	{
+		"id": "+x41YYmvAEezOW9B/FCFFw==",
 		"title": "ToDo List",
 		"website": "https://react-todo-list-exercise.netlify.app/",
 		"repository": "https://github.com/Ant0yne/react-todo-list-exercise",
+		"img": "https://res.cloudinary.com/dxyptix0d/image/upload/v1711266714/reactExercises/clix0fukysozn1hjmdxv.png",
 		"description": "An exercise to manipulate Array in States, input and style manipulation."
 	},
 	{
+		"id": "9RYk6V46aUS038L3bnmviw==",
 		"title": "Currency converter",
 		"website": "https://react-currency-converter-exercise.netlify.app/",
 		"repository": "https://github.com/Ant0yne/react-currency-converter-exercise",
+		"img": "https://res.cloudinary.com/lereacteur-apollo/image/upload/v1564415607/10w-full-stack/React/Screenshot_2019-07-29_at_17.51.56_hlkcxw.png",
 		"description": "An exercise to manipulate Objects, inputs and States."
 	},
 	{
+		"id": "Zhw8UhaWVkaQrhRWjCpL3A==",
 		"title": "Simple Form",
 		"website": "https://react-simple-form-exercise.netlify.app/",
 		"repository": "https://github.com/Ant0yne/react-simple-form-exercise",
+		"img": "https://res.cloudinary.com/dxyptix0d/image/upload/v1711266714/reactExercises/l5puaoxklvwxmzsk9ond.png",
 		"description": "An exercise to manipulate form and States."
 	},
 	{
+		"id": "UCcieqkTh0Ge+Q5+e9q0Jw==",
 		"title": "Counter",
 		"website": "https://react-counter-v2-exercise.netlify.app/",
 		"repository": "https://github.com/Ant0yne/react-counter-v2",
+		"img": "https://res.cloudinary.com/dxyptix0d/image/upload/v1711266713/reactExercises/x55l1p20shovexo9tiiy.png",
 		"description": "An exercise to manipulate Objects in State"
 	},
 	{
+		"id": "vjp9IM8bokuUvR/7j85+zQ==",
 		"title": "Emoji Search",
 		"website": "https://react-emojisearch-exercise.netlify.app/",
 		"repository": "https://github.com/Ant0yne/react-emoji-search-exercise",
+		"img": "https://res.cloudinary.com/dxyptix0d/image/upload/v1711266714/reactExercises/b0vlhz3spgjawyripxdl.png",
 		"description": "An exercise to manipulate Object in State"
 	},
 	{
+		"id": "bPTmI79J9E+FpYHKYuc1yg==",
 		"title": "Tesla Config",
 		"website": "https://react-tes-config-exercise.netlify.app/",
 		"repository": "https://github.com/Ant0yne/react-tesla-config-exercise",
+		"img": "https://res.cloudinary.com/lereacteur-apollo/image/upload/v1573027506/10w-full-stack/React-2019/tesla-config_p17had.png",
 		"description": "An exercise to manipulate JSON and States."
 	},
 	{
+		"id": "9akdPWoWu0GIQd5GBAz32g==",
 		"title": "Ready To Go",
 		"website": "https://react-ready-to-go-exercise.netlify.app/",
 		"repository": "https://github.com/Ant0yne/react-ready-to-go-exercise",
+		"img": "https://res.cloudinary.com/dxyptix0d/image/upload/v1711266713/reactExercises/nueae2nje34phmoxvsnn.png",
 		"description": "An exercise to manipulate States."
 	}
 ]
