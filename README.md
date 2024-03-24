@@ -2,6 +2,8 @@
 
 This is a selection of my React exercises I made as part of my training to become a web and mobile developer with the school "Le Reacteur"
 
+<a href="https://react-exercises-antoine-soliveres.netlify.app/" target="_blank">Website</a>
+
 ## To know
 
 Not all the exercises are design and have layout. This is just a time issue. My first goal was to learn and practice React basics :

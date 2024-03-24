@@ -1,0 +1,44 @@
+[
+	{
+		"title": "ToDo List",
+		"website": "https://react-todo-list-exercise.netlify.app/",
+		"repository": "https://github.com/Ant0yne/react-todo-list-exercise",
+		"description": "An exercise to manipulate Array in States, input and style manipulation."
+	},
+	{
+		"title": "Currency converter",
+		"website": "https://react-currency-converter-exercise.netlify.app/",
+		"repository": "https://github.com/Ant0yne/react-currency-converter-exercise",
+		"description": "An exercise to manipulate Objects, inputs and States."
+	},
+	{
+		"title": "Simple Form",
+		"website": "https://react-simple-form-exercise.netlify.app/",
+		"repository": "https://github.com/Ant0yne/react-simple-form-exercise",
+		"description": "An exercise to manipulate form and States."
+	},
+	{
+		"title": "Counter",
+		"website": "https://react-counter-v2-exercise.netlify.app/",
+		"repository": "https://github.com/Ant0yne/react-counter-v2",
+		"description": "An exercise to manipulate Objects in State"
+	},
+	{
+		"title": "Emoji Search",
+		"website": "https://react-emojisearch-exercise.netlify.app/",
+		"repository": "https://github.com/Ant0yne/react-emoji-search-exercise",
+		"description": "An exercise to manipulate Object in State"
+	},
+	{
+		"title": "Tesla Config",
+		"website": "https://react-tes-config-exercise.netlify.app/",
+		"repository": "https://github.com/Ant0yne/react-tesla-config-exercise",
+		"description": "An exercise to manipulate JSON and States."
+	},
+	{
+		"title": "Ready To Go",
+		"website": "https://react-ready-to-go-exercise.netlify.app/",
+		"repository": "https://github.com/Ant0yne/react-ready-to-go-exercise",
+		"description": "An exercise to manipulate States."
+	}
+]
