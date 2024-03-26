@@ -17,7 +17,14 @@ const Exercise = ({ exercise }) => {
 				onMouseLeave={() => {
 					setIsHover(false);
 				}}>
-				<h3>{title}</h3>
+				<h3
+					style={
+						isHover
+							? { marginBottom: 10 + "px" }
+							: { margin: 4 + "px " + 0 + "px" }
+					}>
+					{title}
+				</h3>
 				{isHover && (
 					<>
 						<div className="links">

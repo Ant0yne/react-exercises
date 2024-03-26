@@ -1,3 +1,21 @@
 footer {
+	width: 100%;
 	text-align: center;
+	display: flex;
+	justify-content: center;
+	position: fixed;
+	bottom: 0;
+	border-top: 1px solid var(--light-grey);
+	margin: 0 -10px;
+	padding: 10px 0;
+	background-color: var(--white);
+}
+
+a {
+	color: var(--black);
+}
+
+a,
+span {
+	font-weight: bold;
 }
