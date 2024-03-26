@@ -10,7 +10,21 @@ const Exercise = ({ exercise }) => {
 		<>
 			<nav
 				className="exercise"
-				style={{ backgroundImage: `url(${img})` }}
+				style={
+					isHover
+						? {
+								backgroundColor: "rgba(0, 0, 0, 0.85",
+								backgroundBlendMode: "darken",
+								color: "var(--white)",
+								backgroundImage: `url(${img})`,
+						  }
+						: {
+								backgroundColor: "rgba(255, 255, 255, 0.9",
+								backgroundBlendMode: "lighten",
+								color: "var(--black)",
+								backgroundImage: `url(${img})`,
+						  }
+				}
 				onMouseEnter={() => {
 					setIsHover(true);
 				}}
@@ -28,10 +42,24 @@ const Exercise = ({ exercise }) => {
 				{isHover && (
 					<>
 						<div className="links">
-							<a href={website} target="_blank">
+							<a
+								href={website}
+								target="_blank"
+								style={
+									isHover
+										? { color: "var(--white)" }
+										: { color: "var(--black)" }
+								}>
 								Website
 							</a>
-							<a href={repository} target="_blank">
+							<a
+								href={repository}
+								target="_blank"
+								style={
+									isHover
+										? { color: "var(--white)" }
+										: { color: "var(--black)" }
+								}>
 								Repository
 							</a>
 						</div>

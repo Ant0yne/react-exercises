@@ -17,6 +17,7 @@ h2 {
 	align-items: center;
 	gap: 10px;
 	margin-bottom: 20px;
+	border-bottom: 1px solid var(--light-grey);
 }
 
 .title > img {

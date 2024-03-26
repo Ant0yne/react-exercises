@@ -4,7 +4,7 @@
 		"title": "ToDo List",
 		"website": "https://react-todo-list-exercise.netlify.app/",
 		"repository": "https://github.com/Ant0yne/react-todo-list-exercise",
-		"img": "https://res.cloudinary.com/dxyptix0d/image/upload/v1711266714/reactExercises/clix0fukysozn1hjmdxv.png",
+		"img": "https://res.cloudinary.com/dxyptix0d/image/upload/v1711439700/reactExercises/fiwe7qk0swtuemoqr7mo.png",
 		"description": "An exercise to manipulate Array in States, input and style manipulation."
 	},
 	{
@@ -12,7 +12,7 @@
 		"title": "Currency converter",
 		"website": "https://react-currency-converter-exercise.netlify.app/",
 		"repository": "https://github.com/Ant0yne/react-currency-converter-exercise",
-		"img": "https://res.cloudinary.com/lereacteur-apollo/image/upload/v1564415607/10w-full-stack/React/Screenshot_2019-07-29_at_17.51.56_hlkcxw.png",
+		"img": "https://res.cloudinary.com/dxyptix0d/image/upload/v1711440086/reactExercises/kvnnbthbviokckfnnx6z.png",
 		"description": "An exercise to manipulate Objects, inputs and States."
 	},
 	{
@@ -20,7 +20,7 @@
 		"title": "Simple Form",
 		"website": "https://react-simple-form-exercise.netlify.app/",
 		"repository": "https://github.com/Ant0yne/react-simple-form-exercise",
-		"img": "https://res.cloudinary.com/dxyptix0d/image/upload/v1711266714/reactExercises/l5puaoxklvwxmzsk9ond.png",
+		"img": "https://res.cloudinary.com/dxyptix0d/image/upload/v1711440324/reactExercises/njp4gllrukwsowblidsh.png",
 		"description": "An exercise to manipulate form and States."
 	},
 	{
@@ -28,7 +28,7 @@
 		"title": "Counter",
 		"website": "https://react-counter-v2-exercise.netlify.app/",
 		"repository": "https://github.com/Ant0yne/react-counter-v2",
-		"img": "https://res.cloudinary.com/dxyptix0d/image/upload/v1711266713/reactExercises/x55l1p20shovexo9tiiy.png",
+		"img": "https://res.cloudinary.com/dxyptix0d/image/upload/v1711441485/reactExercises/iud8gmcgmrw1m4x1paxj.png",
 		"description": "An exercise to manipulate Objects in State"
 	},
 	{
@@ -36,7 +36,7 @@
 		"title": "Emoji Search",
 		"website": "https://react-emojisearch-exercise.netlify.app/",
 		"repository": "https://github.com/Ant0yne/react-emoji-search-exercise",
-		"img": "https://res.cloudinary.com/dxyptix0d/image/upload/v1711266714/reactExercises/b0vlhz3spgjawyripxdl.png",
+		"img": "https://res.cloudinary.com/dxyptix0d/image/upload/v1711441491/reactExercises/bd2hqv4uz64vxgbk8chf.png",
 		"description": "An exercise to manipulate Object in State"
 	},
 	{
@@ -44,7 +44,7 @@
 		"title": "Tesla Config",
 		"website": "https://react-tes-config-exercise.netlify.app/",
 		"repository": "https://github.com/Ant0yne/react-tesla-config-exercise",
-		"img": "https://res.cloudinary.com/lereacteur-apollo/image/upload/v1573027506/10w-full-stack/React-2019/tesla-config_p17had.png",
+		"img": "https://res.cloudinary.com/dxyptix0d/image/upload/v1711441606/reactExercises/ngecokdcxtw99wzhnnsj.png",
 		"description": "An exercise to manipulate JSON and States."
 	},
 	{
@@ -52,7 +52,7 @@
 		"title": "Ready To Go",
 		"website": "https://react-ready-to-go-exercise.netlify.app/",
 		"repository": "https://github.com/Ant0yne/react-ready-to-go-exercise",
-		"img": "https://res.cloudinary.com/dxyptix0d/image/upload/v1711266713/reactExercises/nueae2nje34phmoxvsnn.png",
+		"img": "https://res.cloudinary.com/dxyptix0d/image/upload/v1711441977/reactExercises/qajcunrodxqkrurg0di1.png",
 		"description": "An exercise to manipulate States."
 	}
 ]
